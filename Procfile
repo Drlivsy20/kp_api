@@ -1,1 +1,1 @@
-web: gunicorn kinopoisk-api:app
+web: gunicorn api:app
